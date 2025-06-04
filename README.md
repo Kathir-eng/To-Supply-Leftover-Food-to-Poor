@@ -1,4 +1,4 @@
-### To Supply Leftover Foods to poor
+### To Supply Leftover Foods to poor ###
 
 ## Overview
 This project leverages Salesforce to create a platform for efficiently collecting and distributing leftover food to underprivileged individuals. The system connects food donors, such as restaurants, events, or households, with NGOs or volunteers who distribute the food to those in need. By using Salesforce's robust CRM capabilities, the project ensures seamless communication, tracking, and management of the food supply chain.
